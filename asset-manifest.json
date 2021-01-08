@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/materialUI/static/css/main.42c1e487.chunk.css",
+    "main.js": "/materialUI/static/js/main.4430c020.chunk.js",
+    "main.js.map": "/materialUI/static/js/main.4430c020.chunk.js.map",
+    "runtime-main.js": "/materialUI/static/js/runtime-main.0c9b7a5b.js",
+    "runtime-main.js.map": "/materialUI/static/js/runtime-main.0c9b7a5b.js.map",
+    "static/js/2.95f0224b.chunk.js": "/materialUI/static/js/2.95f0224b.chunk.js",
+    "static/js/2.95f0224b.chunk.js.map": "/materialUI/static/js/2.95f0224b.chunk.js.map",
+    "static/js/3.0461e781.chunk.js": "/materialUI/static/js/3.0461e781.chunk.js",
+    "static/js/3.0461e781.chunk.js.map": "/materialUI/static/js/3.0461e781.chunk.js.map",
+    "index.html": "/materialUI/index.html",
+    "static/css/main.42c1e487.chunk.css.map": "/materialUI/static/css/main.42c1e487.chunk.css.map",
+    "static/js/2.95f0224b.chunk.js.LICENSE.txt": "/materialUI/static/js/2.95f0224b.chunk.js.LICENSE.txt",
+    "static/media/Download.07b3e5d6.svg": "/materialUI/static/media/Download.07b3e5d6.svg",
+    "static/media/PipetteColor.73af3dd3.svg": "/materialUI/static/media/PipetteColor.73af3dd3.svg",
+    "static/media/Reset.de0dc734.svg": "/materialUI/static/media/Reset.de0dc734.svg",
+    "static/media/Signs_ArrowDown_1.39a9aadd.svg": "/materialUI/static/media/Signs_ArrowDown_1.39a9aadd.svg",
+    "static/media/Signs_ArrowDown_3.3ac601ae.svg": "/materialUI/static/media/Signs_ArrowDown_3.3ac601ae.svg",
+    "static/media/Signs_Plus_1.921ad0ca.svg": "/materialUI/static/media/Signs_Plus_1.921ad0ca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c9b7a5b.js",
+    "static/js/2.95f0224b.chunk.js",
+    "static/css/main.42c1e487.chunk.css",
+    "static/js/main.4430c020.chunk.js"
+  ]
+}
